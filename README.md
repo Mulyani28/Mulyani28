@@ -1,6 +1,7 @@
-
-
+<h1 align="center">Hi 👋, I'm Mulyani Saripuddin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mulyani28&label=Profile%20views&color=0e75b6&style=flat" alt="mulyani28" /> </p>
+
+- 📫 Age **20**
 
 - 🔭 I’m currently studying at **University Technology Malaysia (UTM)**
 
@@ -22,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mulyani28&show_icons=true&locale=en" alt="mulyani28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mulyani28&" alt="mulyani28" /></p>
-
