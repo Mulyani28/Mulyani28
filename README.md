@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mulyani Saripuddin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mulyani28&label=Profile%20views&color=0e75b6&style=flat" alt="mulyani28" /> </p>
 
-- 📫 Age **21**
+- 📫 Age **22**
 
 - 🔭 I’m currently studying at **University Technology Malaysia (UTM)**
 
