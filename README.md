@@ -1,6 +1,6 @@
 <h1 align = "center">👋 Hi, I'm Mulyani Saripuddin</h1> 
 
-### 🚀 Data Engineering | Software Development | Web Technologies  
+### 🚀 Data Engineering 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mulyani28&label=Profile%20views&color=0e75b6&style=flat)
 
