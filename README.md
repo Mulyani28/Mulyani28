@@ -1,55 +1,62 @@
-<h1 align="center">Hi 👋, I'm Mulyani Saripuddin</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mulyani28&label=Profile%20views&color=0e75b6&style=flat" alt="mulyani28" /> </p>
+<h1 align = "center">👋 Hi, I'm Mulyani Saripuddin</h1> 
 
-- 📫 Age **22**  
+### 🚀 Data Engineering | Software Development | Web Technologies  
 
-- 🔭 I’m currently studying at **University Technology Malaysia (UTM)**  
+![Profile Views](https://komarev.com/ghpvc/?username=mulyani28&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I’m currently pursuing **Bachelor's degree in Computer Science (Data Engineering) with Hons**  
+## 📝 About Me  
+I am a **Computer Science (Data Engineering)** student at **Universiti Teknologi Malaysia (UTM)**, passionate about **software development** and **data engineering**.
 
-- 📫 How to reach me **mulyanisaripuddin28@gmail.com**  
+📫 **Email:** [mulyanisaripuddin28@gmail.com](mailto:mulyanisaripuddin28@gmail.com)  
+🔗 **LinkedIn:** [Mulyani Saripuddin](https://www.linkedin.com/in/mulyani-saripuddin-387684261/)  
+📷 **Instagram:** [@mlyk.srpddn](https://instagram.com/mlyk.srpddn)  
+🐙 **GitHub:** [mulyani28](https://github.com/Mulyani28)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mulyani-saripuddin-387684261" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mulyani saripuddin" height="30" width="40" />
+---
+
+## 🔧 Skills  
+### Programming Languages & Tools:  
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 📂 Projects  
+🚀 **Explore my projects on GitHub:**  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/mulyani28)
+
+---
+
+## 🏆 Certificates  
+### 📜 Achievements & Certifications  
+Here are some of the certifications I've earned:  
+![Certificate 1](cert1.jpg)  
+![Certificate 2](cert2.jpg)  
+![Certificate 3](cert3.jpg)  
+
+
+---
+
+## 📊 GitHub Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulyani28&layout=compact&theme=blueberry)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mulyani28&show_icons=true&theme=blueberry)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mulyani28&theme=blueberry)
+
+---
+
+## 📞 Connect with Me  
+<a href="https://www.linkedin.com/in/mulyani-saripuddin-387684261/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://instagram.com/mlyk.srpddn" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mlyk.srpddn" height="30" width="40" />
+<a href="https://instagram.com/mlyk.srpddn" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> 
-  </a> 
+---
 
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mulyani28&show_icons=true&locale=en&layout=compact" alt="mulyani28" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mulyani28&show_icons=true&locale=en" alt="mulyani28" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mulyani28&" alt="mulyani28" /></p>
+**💡 Keep learning, keep building! 🚀**
