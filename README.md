@@ -8,11 +8,18 @@
 - 🌱 I’m currently pursuing **Bachelor's degree in Computer Science (Data Engineering) with Hons**  
 
 - 📫 How to reach me **mulyanisaripuddin28@gmail.com**
-- 
+  
 <h3 align="left">🚀 Projects:</h3>
 <ul>
   <li><a href="https://github.com/mulyani28/Youth-Venture">Youth Venture Student Management System</a></li>
   <li><a href="https://github.com/mulyani28/Notes-Management-System">Notes Management System</a></li>
+</ul>
+
+<h3 align="left">🎓 Certifications:</h3>
+<ul>
+  <li>📜 <a href="https://agora.unicef.org/mod/certificate/view.php?id=142043&action=get">Programme Guidance for the Second Decade: Programming with and
+for Adolescents
+</a>- Issued by <b>UNICEF</b></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
